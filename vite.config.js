@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Crud_Operations",
+  base: "/Crud_Operations/",
   plugins: [react()],
 })
