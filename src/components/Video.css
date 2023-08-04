@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 2rem;
+    position: relative;
+    
+}
+
+
+.delbutton{
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    padding: 0.1rem 0.4rem;
+    border-radius: 1px;
+}
+.editbutton{
+    position: absolute;
+    padding: 0.2rem 0.4rem;
+
+}
+.container.darkMode{
+    color: white;
+}
+.container.lightMode{
+    color: black;
+}
+
+
+
+

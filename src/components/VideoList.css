@@ -1,0 +1,21 @@
+.listofvideos{
+    display: flex;
+    align-items: center;
+ 
+    gap: 2rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 6rem;
+
+ 
+
+}
+
+@media (max-width:700px) {
+    .listofvideos{
+     justify-content: center;
+     
+    
+    }
+}
