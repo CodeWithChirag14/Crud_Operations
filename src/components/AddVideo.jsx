@@ -6,7 +6,7 @@ const AddVideo = ({dispatch,editableVideo}) => {
     const initialState={
                         title:"",
                         time:'1 year ago',
-                        channel:'Coder Dost',
+                        channel:'Chirag Nankani',
                         verified:'true',
                         views:"",
                         

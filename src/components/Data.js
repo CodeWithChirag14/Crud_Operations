@@ -3,7 +3,7 @@ let videos=[{
     title:"REACT JS tutorial",
     views:'999K',
     time:'1 year ago',
-    channel:'Coder Dost',
+    channel:'Chirag Nankani',
     verified:true
 },
 
@@ -13,7 +13,7 @@ let videos=[{
     title:"NODE JS tutorial",
     views:'100K',
     time:'1 month ago',
-    channel:'Coder Dost',
+    channel:'Chirag Nankani',
     verified:false
 },
 
@@ -25,7 +25,7 @@ let videos=[{
     title:"EXPRESS JS tutorial",
     views:'10K',
     time:'2 month ago',
-    channel:'Coder Dost',
+    channel:'Chirag Nankani',
     verified:true
 },
 

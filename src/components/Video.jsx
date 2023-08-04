@@ -6,7 +6,7 @@ import { ThemeContext } from '../App';
 
 
 
-const Video = ({id,title,channel='Coder Dost',time,views,verified,children,dispatch,editVideo}) => {
+const Video = ({id,title,channel='Chirag Nankani',time,views,verified,children,dispatch,editVideo}) => {
 
  const mode=useContext(ThemeContext)    
    
